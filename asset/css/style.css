@@ -1,0 +1,101 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+header a {
+    flex-wrap: inherit;
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+h5 {
+    color: #212529;
+    font: 300;
+    font-size: 20pt;
+}
+
+p {
+    color: #707070;
+    font-weight: 300;
+    margin-bottom: 0px;
+    font-size: 13px;
+}
+
+i {
+    fill: #707070;
+}
+
+p.fas {
+    font-size: 13px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+
+.card-body a.card-link {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+p.card-text {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.card-body a.oferta {
+
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 18px;
+    margin-left: 11px;
+}
+
+div.card-body.text-right {
+    padding-bottom: 15px;
+}
+
+.color-fondo {
+    background-color: #28A745;
+}
+
+.form-control {
+    font-weight: 300;
+    margin-bottom: 14px;
+}
+
+.btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 5px;
+}
+
+.card {
+    margin-bottom: 2.5rem;
+
+}
+
+h3 {
+    font-size: 21px;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+footer {
+    color: #707070;
+    background-color: var(--white);
+}
+
+p.derechos {
+    font-size: 16px;
+    padding-bottom: 22px;
+}
