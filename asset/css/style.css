@@ -82,7 +82,9 @@ div.card-body.text-right {
     margin-bottom: 2.5rem;
 
 }
-
+.text-nowrap{
+    background-color: #28A745;
+}
 h3 {
     font-size: 21px;
     font-weight: 500;
@@ -92,7 +94,7 @@ h3 {
 
 footer {
     color: #707070;
-    background-color: var(--white);
+    background-color: chartreuse;
 }
 
 p.derechos {
